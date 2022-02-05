@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eldercasey
-- 👀 I’m interested in Wireless (LTE and 5G RAN), 
+- 👀 I’m interested in Wireless (LTE and 5G RAN), Network Testing and music
 - 👓 I know a bit about C++, Java, Python, Kafka, Elasticsearch, SQL
 - 🌱 I’m currently learning Angular
 
